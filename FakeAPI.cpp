@@ -18,7 +18,7 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 
 // to avoid rebasing, use the linker/advanced/BaseAddress option 
 
-#include "../../_Common_Files/GenericFakeAPI.h"
+#include "CommonFiles/GenericFakeAPI.h"
 // You just need to edit this file to add new fake api 
 // WARNING YOUR FAKE API MUST HAVE THE SAME PARAMETERS AND CALLING CONVENTION AS THE REAL ONE,
 //                  ELSE YOU WILL GET STACK ERRORS
